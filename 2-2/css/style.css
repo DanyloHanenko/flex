@@ -1,0 +1,49 @@
+
+.wrap {
+    margin: 20px;
+    row-gap: 20px;
+}
+
+.block_1 {
+    height: 350px;
+}
+
+.block_2 {
+    height: 250px;
+    justify-content: space-between;
+    column-gap: 20px;
+}
+
+.block_2_content {
+    flex-grow: 1;
+}
+
+.block_3 {
+    height: 500px;
+}
+
+
+.bgc_blue {
+    background: cornflowerblue;
+}
+
+.bgc_darkblue {
+    background: darkblue;
+}
+
+.color_gold {
+    color: gold;
+}
+
+.d_flex {
+    display: flex;
+}
+
+.flex_column {
+    flex-direction: column;
+}
+
+.flex_center {
+    justify-content: center;
+    align-items: center;
+}
